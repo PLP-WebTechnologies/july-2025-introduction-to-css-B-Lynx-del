@@ -1,0 +1,40 @@
+/* Reset some default styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #320341;
+}
+
+/* Header styling */
+header {
+    background-color: #3b0839;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation buttons */
+nav button {
+    margin: 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #dd6ecb;
+    color: white;
+    cursor: pointer;
+}
+
+/* Card sections */
+.card {
+    background-color: rgb(208, 131, 238);
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ddd;
+}
